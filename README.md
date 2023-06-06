@@ -2,4 +2,4 @@
 This repo is for our Lyrics for learning project 
 
 # Theme name
-Theme-merlot
+Theme-Merlot
