@@ -146,10 +146,10 @@ Licenses for images from Wikimedia Commons:
 * [Paul Simonon The Clash September 20 1979 Palladium NYC.jpg](https://commons.wikimedia.org/wiki/File:Paul_Simonon_The_Clash_September_20_1979_Palladium_NYC.jpg)
 
 ## Author
-### **David Kwan**
+### Elton Mziti & Polykarp Amukuhu
 
-David Kwan is a former teacher and current full stack software engineer with a passion for creating products that connect and empower others. He used his skills on the back-end and front-end to create Lyrics for Learning.
+ Elton and Polykarp we are recent graduates from UNAM and NUST, full stack software engineers in making  with a passion for creating products that connect and empower others. We used our skills on the back-end and front-end to create Lyrics for Learning.
 
-[Github](https://github.com/dwkwan)
-[LinkedIn](https://www.linkedin.com/in/david-kwan-1b0930129/)
-[Twitter](https://twitter.com/davidwkwan)
+[Github](https://github.com/emziti)
+[Github](https://github.com/oshikombo)
+
