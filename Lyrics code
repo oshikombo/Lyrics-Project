@@ -1,0 +1,37 @@
+import time
+
+def display_lyrics(lyrics):
+    for line in lyrics:
+        print(line)
+        time.sleep(2)  # Delay between lines, adjust as needed
+        clear_screen()  # Clear the screen before displaying the next line
+
+def clear_screen():
+    # Function to clear the console screen
+    # You can use different approaches depending on your operating system
+    # Here's an example for Windows, you may need to adjust for other OSes
+    import os
+    os.system('cls')
+
+def learn_lyrics(lyrics):
+    clear_screen()
+    print("Let's learn the lyrics!\n")
+    print("Press Enter to reveal each line.")
+    input("Press Enter to start...")
+
+    display_lyrics(lyrics)
+
+    print("\nCongratulations! You've learned the lyrics.")
+
+# Example lyrics
+song_lyrics = [
+    "Oh, thinkin' about all our younger years",
+    "There was only you and me",
+    "We were young and wild and free",
+    "Now, nothin' can take you away from me",
+    "We've been down that road before",
+    "But that's over now",
+    "You keep me comin' back for more"
+]
+
+learn_lyrics(song_lyrics)
